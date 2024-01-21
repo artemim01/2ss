@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    height: 101px;
+    background: #0776A0;
+}
+header img{
+width: 105px;
+height: 60px;
+}
+a{
+    background: #FFB600;
+    font-size: 36px;
+    text-decoration: none;
+    border-radius:10px;
+    margin-left:15px;
+}
+
+main h1{
+    color: #000;
+
+font-family: Montserrat;
+font-size: 48px;
+    text-align: center;
+}
+h2{
+color: #FF2C00;
+
+font-family: Montserrat;
+font-size: 36px;
+}
+footer{
+    background-color: #024C68;
+    width: 959px;
+height: 161px;
+}
+.o{
+    padding-top:36px;
+    margin-left:79px;
+    color: white;
+}
+.t{
+     margin-left:79px;
+     margin-bottom:30px;
+     margin-top:20px;
+     color: white;
+}
+main img{
+    margin:20px;
+}
